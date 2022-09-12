@@ -1,7 +1,7 @@
 # This is the trail version of KDS (KinaseDrugSelectivity) software for review. 
 # The full version will be released soon.
 
-Installation:
+#Installation:
   For Windows:
       1 Download and unzip the compressed file "Windows_KDS_MingzhenZhang.zip"
       2 Run the executable file in "yourLocation/windows_KDS_MingzhenZhang/KDS_MingzhenZhang.exe"
