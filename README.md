@@ -15,7 +15,14 @@ Description:
 
 
 Installation (trial version):
-
+  For login:
+  
+      The default username is "KDS"
+  
+      The default password is "KDS"
+      
+      Please contact mingzhen.zhang@nih.gov If you have any questions about the software.
+      
   For Windows:
   
       1 Download and unzip the compressed file "Windows/windows_KDS.zip"
@@ -27,16 +34,9 @@ Installation (trial version):
       1 Download and unzip the compressed file "MacOS/MacOS_KDS.app.zip" 
       
       2 Run the executable file "...yourLocation/macOS_KDS.app"
-
-  For login:
-  
-      The default username is "KDS"
-  
-      The default password is "KDS"
-  
       
   For windows defender smartscreen, please see:
       
           https://www.thewindowsclub.com/microsoft-defender-smartscreen-prevented-an-unrecognized-app-from-starting
           
-Please contact mingzhen.zhang@nih.gov if you have any questions.
+
