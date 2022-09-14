@@ -33,3 +33,5 @@ Installation (trial version):
       The default password is "KDS"
 
 Please contact mingzhen.zhang@nih.gov if you have any questions.
+
+For some computers, if the KD
