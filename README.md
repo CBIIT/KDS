@@ -1,4 +1,4 @@
-# This is the trial version of KDS (KinaseDrugSelectivity) cross-platform software for review. 
+# This is the trial version of KDS (Kinase Drug Selectivity) cross-platform software for review. 
 # The full version will be released soon.
 
 Description:
@@ -18,20 +18,25 @@ Installation (trial version):
 
   For Windows:
   
-      1 Download and unzip the compressed file "windows_KDS_MingzhenZhang_trial.zip"
+      1 Download and unzip the compressed file "Windows/windows_KDS.zip"
       
-      2 Run the executable file in "...yourLocation/windows_KDS_MingzhenZhang_trial/KDS_MingzhenZhang.exe"
+      2 Run the executable file in "...yourLocation/windows_KDS/KDS_MingzhenZhang.exe"
  
   For Mac OS:
  
-      1 Download and run the executable file "...yourLocation/macOS_KDS_MingzhenZhang_trial.app"
+      1 Download and unzip the compressed file "MacOS/MacOS_KDS.app.zip" 
+      
+      2 Run the executable file "...yourLocation/macOS_KDS.app"
 
   For login:
   
       The default username is "KDS"
   
       The default password is "KDS"
-
+  
+      
+  For windows defender smartscreen, please see:
+      
+          https://www.thewindowsclub.com/microsoft-defender-smartscreen-prevented-an-unrecognized-app-from-starting
+          
 Please contact mingzhen.zhang@nih.gov if you have any questions.
-
-For some computers, if the KD
