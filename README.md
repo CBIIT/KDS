@@ -15,13 +15,13 @@ Description:
 
 
 Installation (trial version):
+    
   For login:
   
       The default username is "KDS"
   
       The default password is "KDS"
       
-      Please contact mingzhen.zhang@nih.gov If you have any questions about the software.
       
   For Windows:
   
@@ -39,4 +39,6 @@ Installation (trial version):
       
           https://www.thewindowsclub.com/microsoft-defender-smartscreen-prevented-an-unrecognized-app-from-starting
           
+  Please contact mingzhen.zhang@nih.gov if you have any questions.
+      
 
