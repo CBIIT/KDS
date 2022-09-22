@@ -4,7 +4,8 @@
 Description:
   
     KDS software shows the structural features in the kinase drug pockets that may distinguish one kinase 
-    from all others in the human kinome that may benefit the design of the kinase drugs with desired selectivity. 
+    from all others in the human kinome that may benefit the design of the kinase drugs with the desired 
+    selectivity. 
     It is developed by using the Unity (Unity 2021.3.8f1). The 3D assets in the software are generated 
     by Blender 3.1 (python 3.10.2) and PyMol (2.5.2). @ Mingzhen Zhang 09/12/2022
 
