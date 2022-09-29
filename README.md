@@ -29,6 +29,10 @@ Installation (trial version):
       1 Download and unzip the compressed file "Windows/windows_KDS.zip"
       
       2 Run the executable file in "...yourLocation/windows_KDS/KDS_MingzhenZhang.exe"
+      
+      For windows defender smartscreen, please see:
+      
+          https://www.thewindowsclub.com/microsoft-defender-smartscreen-prevented-an-unrecognized-app-from-starting
  
   For Mac OS:
  
@@ -36,9 +40,7 @@ Installation (trial version):
       
       2 Run the executable file "...yourLocation/macOS_KDS.app"
       
-  For windows defender smartscreen, please see:
-      
-          https://www.thewindowsclub.com/microsoft-defender-smartscreen-prevented-an-unrecognized-app-from-starting
+  
           
   Please contact mingzhen.zhang@nih.gov, NussinoR@mail.nih.gov if you have any questions.
 
