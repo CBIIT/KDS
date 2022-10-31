@@ -1,7 +1,7 @@
 # This is the trial version of KDS (Kinase Drug Selectivity) cross-platform software for review. 
-# The full version will be released soon (@Mingzhen Zhang).
+# The full version will be released soon.
 
-Description:
+Description (@Mingzhen Zhang):
   
     KDS software shows the structural features in the kinase drug pockets that may distinguish one kinase 
     from all others in the human kinome that may benefit the design of the kinase drugs with the desired 
