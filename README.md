@@ -1,13 +1,13 @@
 # This is the trial version of KDS (Kinase Drug Selectivity) cross-platform software for review. 
 # The full version will be released soon.
 
-Description:
+Description (@Mingzhen Zhang):
   
     KDS software shows the structural features in the kinase drug pockets that may distinguish one kinase 
     from all others in the human kinome that may benefit the design of the kinase drugs with the desired 
     selectivity. 
     It is developed by using the Unity (Unity 2021.3.8f1). The 3D assets in the software are generated 
-    by Blender 3.1 (python 3.10.2) and PyMol (2.5.2). 
+    by Blender 3.1 (python 3.10.2) and PyMol (2.5.2).
 
     KDS has three scenes:
       1. Splash screen with Login panel. [animation & network initialization]
