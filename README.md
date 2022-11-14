@@ -24,7 +24,7 @@ Installation (trial version):
       The default password is "KDS"
       
       
-  For Windows [for windows defender smartscreen, 
+  For Windows [Windows defender smartscreen, 
   https://www.thewindowsclub.com/microsoft-defender-smartscreen-prevented-an-unrecognized-app-from-starting]:
   
       1 Download and unzip the compressed file "Windows/windows_KDS.zip"
