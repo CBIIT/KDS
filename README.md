@@ -44,7 +44,7 @@ Installation (trial version):
       
   
           
-# A Strategy Towards Kinase-Selectivity Drug Discovery 
+# A Strategy Toward Kinase-Selective Drug Discovery 
 ## Mingzhen Zhang<sup>a</sup>, Yonglan Liu<sup>b</sup>, Hyunbum Jang<sup>a</sup> and Ruth Nussinov<sup>a,c.</sup>*
 <br>
 DOI: https://doi.org/10.1021/acs.jctc.2c01171.<br>
