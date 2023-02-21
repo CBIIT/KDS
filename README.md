@@ -49,9 +49,9 @@ Installation (trial version):
 <br>
 DOI: https://doi.org/10.1021/acs.jctc.2c01171.<br>
 <br>
-a Computational Structural Biology Section, Frederick National Laboratory for Cancer Research, Frederick, MD 21702, U.S.A.<br>
-b Cancer Innovation Laboratory, National Cancer Institute, Frederick, MD 21702, U.S.A.<br>
-c Department of Human Molecular Genetics and Biochemistry, Sackler School of Medicine, Tel Aviv University, Tel Aviv 69978, Israel<br>
+<sup>a </sup>Computational Structural Biology Section, Frederick National Laboratory for Cancer Research, Frederick, MD 21702, U.S.A.<br>
+<sup>b </sup>Cancer Innovation Laboratory, National Cancer Institute, Frederick, MD 21702, U.S.A.<br>
+<sup>c </sup>Department of Human Molecular Genetics and Biochemistry, Sackler School of Medicine, Tel Aviv University, Tel Aviv 69978, Israel<br>
 For any questions, please contact: Tel: 301-846-5579 E-mail: NussinoR@mail.nih.gov <br>
 Description of KDS software:
 KDS software shows the structural features in the kinase drug pockets that may distinguish one kinase from all others in the human kinome, which is expected benefit the design of the kinase drugs with the desired selectivity. 
