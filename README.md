@@ -46,8 +46,8 @@ Installation (trial version):
           
 # A Strategy Towards Kinase-Selectivity Drug Discovery 
 ## Mingzhen Zhanga, Yonglan Liub, Hyunbum Janga and Ruth Nussinova,c,*
-DOI: https://doi.org/10.1021/acs.jctc.2c01171.
-a Computational Structural Biology Section, Frederick National Laboratory for Cancer Research, Frederick, MD 21702, U.S.A.
+DOI: https://doi.org/10.1021/acs.jctc.2c01171.<br>
+a Computational Structural Biology Section, Frederick National Laboratory for Cancer Research, Frederick, MD 21702, U.S.A.<br>
 b Cancer Innovation Laboratory, National Cancer Institute, Frederick, MD 21702, U.S.A.
 c Department of Human Molecular Genetics and Biochemistry, Sackler School of Medicine, Tel Aviv University, Tel Aviv 69978, Israel
 For any questions, please contact: Tel: 301-846-5579 E-mail: NussinoR@mail.nih.gov 
